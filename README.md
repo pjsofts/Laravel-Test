@@ -16,6 +16,9 @@ In the backend use Laravel.
     - Each user can only edit/delete items posted by themselves.
 6. **(optional)** If you like, you can have a set public/private button
  in front of each todo item, public todo items can also be edited/deleted by other users
+7. **(optional)** Adding a Role-Permission mechanism for users have extra points. (e.g. a user may can 
+    add todo but not edit it and another user may have all the permissions )
+
 
 
 ## Frontend
