@@ -22,7 +22,7 @@ In the backend use Laravel.
 
 
 ## Frontend
-1. Simply use Blade to render plain HTML form
+1. Simply use Blade to render plain HTML forms.
 2. **(optional)** If you know any front-end technologies you may use it
  to render a better UI/UX experience.
   - You may use CSS to style the form.
