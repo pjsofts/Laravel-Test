@@ -22,8 +22,8 @@ In the backend use Laravel.
 1. Simply use Blade to render plain HTML forms.
 2. **(optional)** If you know any front-end technologies you may use it
  to render a better UI/UX experience.
-  - You may use CSS to style the form.
-  - Or you may use Bootstrap components.
-  - Or you may use JQuery for posting the form, or doing validation on the client.
-  - If you know React, Vue or Angular you can use them to create a reactive UI.
+    - You may use CSS to style the form.
+    - Or you may use Bootstrap components.
+    - Or you may use JQuery for posting the form, or doing validation on the client.
+    - If you know React, Vue or Angular you can use them to create a reactive UI.
  
