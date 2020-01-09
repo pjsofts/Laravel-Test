@@ -8,7 +8,7 @@ The user will use this app to
 ## Backend
 In the backend use Laravel
 1. Design the database
-2. Write CRUD apis for the todo model
+2. Write CRUD APIs for the todo model
 3. Do validation on the incoming queries from the front-end
 5. **(optional)** If you like, you may add user management and authentication
     - Each user can see the items posted by other users
