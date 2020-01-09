@@ -11,14 +11,13 @@ In the backend use Laravel.
 2. Write CRUD APIs for the todo model.
 3. Do validation on the incoming queries from the front-end.
 5. **(optional)** If you like, you may add user management and authentication
-    - Users use a form to sign up and sign in.
     - Each user can see the items posted by other users.
     - Each user can only edit/delete items posted by themselves.
 6. **(optional)** If you like, you can have a set public/private button
  in front of each todo item, public todo items can also be edited/deleted by other users
 7. **(optional)** Adding a Role-Permission mechanism for users have extra points. (e.g. a user may can 
-    add todo but not edit it and another user may have all the permissions )
-
+    add and edit it but another user may have all the permissions to delete store)
+ 
 
 
 ## Frontend
