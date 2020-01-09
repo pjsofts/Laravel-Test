@@ -15,7 +15,7 @@ In the backend use Laravel.
     - Each user can see the items posted by other users.
     - Each user can only edit/delete items posted by themselves.
 6. **(optional)** If you like, you can have a set public/private button
- in front of each todo item, public todo items can also be edited/deleted by other users
+ in front of each todo item, public todo items can also be edited/deleted by other users.
 
 
 ## Frontend
