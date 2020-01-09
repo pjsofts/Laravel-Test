@@ -29,6 +29,6 @@ In the backend use Laravel.
  
 
 ## Infrastructure
-1. Push your code to a github/gitlab repository and share it with us
+1. Push your code to a github/gitlab repository and share it with us.
 1. **(Optional)** If you enjoy doing this, you may publish your web application on 
 Heroku container-based cloud Platfrom as a Service (PaaS) free tier and share the link with us. 
